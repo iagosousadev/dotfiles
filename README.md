@@ -12,4 +12,4 @@ This is a repository that i just made to begin saving all my dotfiles.
 
  ---
  # Table of Content
- - [PowerShell](powershell/README.md)
+ - [PowerShell](powershell)
