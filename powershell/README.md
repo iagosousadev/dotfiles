@@ -1,5 +1,6 @@
 # Things needed to be installed before using the dotfiles
 ## Content
+- Before and After
 - Requirements
 - Where to put files
 - NerdFonts: Hack
@@ -10,7 +11,19 @@
 - Directory Jumper - z
 - PSReadLine
 - Other useful options
-- Before and After
+
+---
+
+## Before and After
+### Before you install PowerShell you have Windows Power Shell
+![FirstImage](first.png)
+
+### After you install PowerShell and the above mentioned packages like posh-git etc
+
+![SecondImage](second.png)
+
+### Last but not least, after you make your user profile and change all the appearance settings in the terminal
+![AfterImage](after.png)
 
 ---
 
@@ -130,14 +143,3 @@ Some other packages that you can search to install and try to use for productivi
 - Fuzzy Finder (fzf and PSFzf) - I don't personally use butI know people like to use those kind of tools so you have the name at your disposal to figure out how to install it.
 
 ---
-
-## Before and After
-### Before you install PowerShell you have Windows Power Shell
-![FirstImage](first.png)
-
-### After you install PowerShell and the above mentioned packages like posh-git etc
-
-![SecondImage](second.png)
-
-### Last but not least, after you make your user profile and change all the appearance settings in the terminal
-![AfterImage](after.png)
