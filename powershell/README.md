@@ -1,16 +1,16 @@
 # Things needed to be installed before using the dotfiles
 ## Content
-- Before and After
-- Requirements
-- Where to put files
-- NerdFonts: Hack
-- Windows Terminal Configurations
-- Scoop (maybe Chocolatey)
-- Oh My Posh
-- Terminal-Icons
-- Directory Jumper - z
-- PSReadLine
-- Other useful options
+- [Before and After](#before-and-after)
+- [Requirements](#requirements)
+- [Where to put files](#where-to-put-files)
+- [NerdFonts: Hack](#font)
+- [Windows Terminal Configurations](#windows-terminal-configurations)
+- [Scoop (maybe Chocolatey)](#scoop)
+- [Oh My Posh](#oh-my-posh--posh-git)
+- [Terminal-Icons](#terminal-icons)
+- [Directory Jumper - z](#directory-jumper---z)
+- [PSReadLine](#psreadline)
+- [Other useful options](#other-useful-options)
 
 ---
 
