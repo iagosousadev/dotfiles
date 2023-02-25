@@ -8,7 +8,9 @@ Set-PSReadLineOption -EditMode Emacs
 Set-PSReadLineOption -BellStyle None
 Set-PSReadLineKeyHandler -Chord 'Ctrl+d' -Function DeleteChar
 Set-PSReadLineOption -PredictionSource History
-Set-PSReadLineOption -PredictionViewStyle ListView
+Set-PSReadLineOption -PredictionViewStyle InlineView
+Set-PSReadLineKeyHandler -Key UpArrow -Function HistorySearchBackward
+Set-PSReadLineKeyHandler -Key DownArrow -Function HistorySearchForward
 
 # Alias
 Set-Alias vim nvim
