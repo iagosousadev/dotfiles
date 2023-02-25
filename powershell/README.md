@@ -87,18 +87,18 @@ code $PROFILE.CurrentUserCurrentHost
 ```
 and then put inside of it the following
 ```shell
- . $env:USERPROFILE\.config\powershell\user_profile.ps1
- ```
- reopen terminal to check for aliases that you have put inside the file to check that it's working properly
+. $env:USERPROFILE\.config\powershell\user_profile.ps1
+```
+reopen terminal to check for aliases that you have put inside the file to check that it's working properly
 
- ---
+---
 
- ## Terminal Icons
- ```shell
- Install-Module -Name Terminal-Icons -Repository PSGallery -Force
- ```
+## Terminal Icons
+```shell
+Install-Module -Name Terminal-Icons -Repository PSGallery -Force
+```
 
- ---
+---
 
 ## Directory Jumper - z
 This will make you jump to folders that you previously navigated to using cd by typing just part of the name of the folder
